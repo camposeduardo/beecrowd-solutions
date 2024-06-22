@@ -4,6 +4,14 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1000-1050" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1051-1100" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1101-1150" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1151-1200" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1201-1250" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1251-1300" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1301-1350" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2251-2300" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
